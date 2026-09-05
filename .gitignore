@@ -1,0 +1,36 @@
+# Altium generated directories
+**/History/
+**/__Previews/
+**/Project Logs for */
+**/Project Outputs for */
+**/Generated/
+**/Outputs/
+
+# Altium generated files
+*.PrjPcbStructure
+*.PrjPcbVariants
+*.PcbDoc.htm
+*.SchDocPreview
+*.PcbDocPreview
+*.REP
+*.LOG
+*.DsnWrk
+*.DsnWrk.user
+*.PrjPcb.user
+*.OutJob.user
+
+# Altium lock and temporary files
+~$*
+*.lck
+*.lock
+*.tmp
+*.bak
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
