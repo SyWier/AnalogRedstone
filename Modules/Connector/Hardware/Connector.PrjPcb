@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ILOQVBOG
 
 [Document3]
-DocumentPath=Connector.SchLib
+DocumentPath=..\..\..\Libraries\Components.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -98,24 +98,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PNPAYILB
-
-[Document4]
-DocumentPath=Connector.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YWKDNIPC
+DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Connector\Connector.EXTREP
